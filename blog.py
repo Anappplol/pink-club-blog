@@ -207,3 +207,4 @@ def grupo(nombre):
 
 @app.route('/invitar/<nombre>', methods=['POST'])
 def invitar(nombre):
+
